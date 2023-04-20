@@ -17,5 +17,4 @@ Olá, eu sou Felipe Lopes! 👋😀
 ### Meus principais repositórios:
 
 - [App-previsaoTempo](https://github.com/felipesllopes/App-previsaoTempo)
-- [App-PlanetasSistemaSolar](https://github.com/felipesllopes/App-PlanetasSistemaSolar)
 - [App-FrasesEstoicas](https://github.com/felipesllopes/App-FrasesEstoicas)
