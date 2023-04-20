@@ -1,6 +1,5 @@
 Olá, eu sou Felipe Lopes! 👋😀 sou estudante de Analise e Desenvolvimento de Sistemas. Tenho 27 anos e moro no Rio de Janeiro.
-Sou fã da NASA (como a foto do perfil indica hehe) e de astronomia. Comecei a me interessar por programação em 2021, quando comecei a acompanhar as missões dos rovers em Marte, em especial a missão do rover Perseverance, que levava uma mensagem codificada em seu paraquedas: "Ouse coisas grandiosas".
-Desde então, eu tenho estudado e me dedicado bastante para que, futuramente, eu possa ser parte de algo revolucionário nesse meio da programação.
+Sou fã da NASA (como a foto do perfil indica hehe) e de astronomia. Amo estudar e adquirir novos conhecimentos.
 
 ![Felipesllopes GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesllopes&show_icons=true&theme=tokyonight)
 
