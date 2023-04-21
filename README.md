@@ -20,3 +20,7 @@ Sou fã da NASA (como a foto do perfil indica hehe) e de astronomia. Amo estudar
 - [App-theUniverse](https://github.com/felipesllopes/App-theUniverse)
 - [App-previsaoTempo](https://github.com/felipesllopes/App-previsaoTempo)
 - [App-FrasesEstoicas](https://github.com/felipesllopes/App-FrasesEstoicas)
+
+![App-theUniverse-home](https://user-images.githubusercontent.com/99768939/233698190-919c1de4-dece-4b95-925b-691b09cf7873.png)
+![App-previsaoTempo-png](https://user-images.githubusercontent.com/99768939/233698212-686890d1-7d3f-4640-abf6-40bbcd1e4b4e.png)
+![app-FrasesEstoicas-png](https://user-images.githubusercontent.com/99768939/233698232-ebc7ddfb-ea51-43c7-a477-e0209d7823de.png)
