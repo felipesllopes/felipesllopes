@@ -33,4 +33,4 @@ Amo estudar e adquirir novos conhecimentos.
 
 ![App-theUniverse-home](https://user-images.githubusercontent.com/99768939/233698190-919c1de4-dece-4b95-925b-691b09cf7873.png)
 ![App-previsaoTempo-png](https://user-images.githubusercontent.com/99768939/233698212-686890d1-7d3f-4640-abf6-40bbcd1e4b4e.png)
-![app-FrasesEstoicas-png](https://user-images.githubusercontent.com/99768939/233698232-ebc7ddfb-ea51-43c7-a477-e0209d7823de.png)
+![Frases-estoicas](https://github.com/felipesllopes/felipesllopes/assets/99768939/146d3f6d-f60c-4b26-9348-57d02cfb7aca)
