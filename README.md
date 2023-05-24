@@ -1,5 +1,6 @@
 Olá, eu sou Felipe Lopes! 👋😀 sou estudante de Analise e Desenvolvimento de Sistemas. Tenho 27 anos e moro no Rio de Janeiro.
 Amo estudar e adquirir novos conhecimentos. 
+Atualmente estou estudando programação, design gráfico e inglês.
 
 ![Felipesllopes GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesllopes&show_icons=true&theme=tokyonight)
 
