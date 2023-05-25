@@ -33,8 +33,8 @@ Atualmente estou estudando programação, design gráfico e inglês.
 - [App-FrasesEstoicas](https://github.com/felipesllopes/App-FrasesEstoicas)
 - [App-RickAndMorty](https://github.com/felipesllopes/App-rickAndMorty)
 
-![App-theUniverse-home](https://user-images.githubusercontent.com/99768939/233698190-919c1de4-dece-4b95-925b-691b09cf7873.png)
-![App-previsaoTempo-png](https://user-images.githubusercontent.com/99768939/233698212-686890d1-7d3f-4640-abf6-40bbcd1e4b4e.png)
-![Frases-estoicas](https://github.com/felipesllopes/felipesllopes/assets/99768939/146d3f6d-f60c-4b26-9348-57d02cfb7aca)
-![App-RickAndMorty](https://github.com/felipesllopes/felipesllopes/assets/99768939/7d56a583-d373-488e-9225-1de942c55758)
+[![App-theUniverse-home](https://user-images.githubusercontent.com/99768939/233698190-919c1de4-dece-4b95-925b-691b09cf7873.png)](https://github.com/felipesllopes/App-theUniverse)
+[![App-previsaoTempo-png](https://user-images.githubusercontent.com/99768939/233698212-686890d1-7d3f-4640-abf6-40bbcd1e4b4e.png)](https://github.com/felipesllopes/App-previsaoTempo)
+[![Frases-estoicas](https://github.com/felipesllopes/felipesllopes/assets/99768939/146d3f6d-f60c-4b26-9348-57d02cfb7aca)](https://github.com/felipesllopes/App-FrasesEstoicas)
+[![App-RickAndMorty](https://github.com/felipesllopes/felipesllopes/assets/99768939/7d56a583-d373-488e-9225-1de942c55758)](https://github.com/felipesllopes/App-rickAndMorty)
 
