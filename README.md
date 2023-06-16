@@ -1,4 +1,4 @@
-Hello, I'm Felipe Lopes! 👋😀 I am a student of Systems Analysis and Development. I'm 27 years old and I live in Rio de Janeiro. I love to study and acquire new knowledge. I am currently studying programming, graphic design and English.
+Hello, I'm Felipe Lopes! 👋😀 I am a student of Systems Analysis and Development. I'm 27 years old and I live in Rio de Janeiro. I love to study and acquire new knowledge.
 
 ![Felipesllopes GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesllopes&show_icons=true&theme=tokyonight)
 
@@ -13,16 +13,23 @@ Hello, I'm Felipe Lopes! 👋😀 I am a student of Systems Analysis and Develop
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Expo-EEE?style=for-the-badge&logo=Expo&logoColor=000)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-EEE?style=for-the-badge&logo=Firebase&logoColor=FF9A00)
 
-### Technologies I am aware of:
+### Technologies I know:
 
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
+### Others studies:
+
+![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
 
 ### My main repositories:
 
