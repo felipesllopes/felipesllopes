@@ -31,13 +31,11 @@ Hello, I'm Felipe Lopes! 👋😀 I am a student of Systems Analysis and Develop
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 
-### My main repositories:
+### My main repositories (click on the image to go to the repository):
 
-- [App-theUniverse](https://github.com/felipesllopes/App-theUniverse)
-- [App-previsaoTempo](https://github.com/felipesllopes/App-previsaoTempo)
-- [App-BlueBank (in construction ⚠)](https://github.com/felipesllopes/App-BlueBank)
-
-![App-theUniverse](https://github.com/felipesllopes/felipesllopes/assets/99768939/d9840382-f67f-4941-b095-e1bb03cd9c25)
-![App-previsaoTempo-png](https://user-images.githubusercontent.com/99768939/233698212-686890d1-7d3f-4640-abf6-40bbcd1e4b4e.png)
-![tela-home1](https://github.com/felipesllopes/felipesllopes/assets/99768939/df372e11-d335-4d9c-ad46-0c2b76ff730e)
-
+[![theuniverse](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247369764-5f5316d4-9317-4f2b-aa9b-4af4d6944b8b.png)](https://github.com/felipesllopes/App-theUniverse)
+[![tela-blueBank](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370296-48d698a0-fe7c-45c0-8b23-f4e999b8a488.png)](https://github.com/felipesllopes/App-BlueBank)
+[![tela1](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370481-536fb5e1-f9a9-406b-893d-25a3546e13ba.png)](https://github.com/felipesllopes/App-rickAndMorty)
+[![app-tela3](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370581-d2bc0ffc-0204-4b1b-991c-5c2d95ece413.png)](https://github.com/felipesllopes/App-minhasTarefas)
+[![app-previsaoTempo](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370768-03e7b885-01fa-4d17-9b1f-9d0f7aeba3da.png)](https://github.com/felipesllopes/App-previsaoTempo)
+[![app-frasesEstoicas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370919-96097a74-5f8f-48b2-aa1f-ab3a3e132c30.png)](https://github.com/felipesllopes/App-FrasesEstoicas)
