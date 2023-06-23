@@ -38,4 +38,5 @@ Hello, I'm Felipe Lopes! 👋😀 I am a student of Systems Analysis and Develop
 [![tela1](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370481-536fb5e1-f9a9-406b-893d-25a3546e13ba.png)](https://github.com/felipesllopes/App-rickAndMorty)
 [![app-tela3](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370581-d2bc0ffc-0204-4b1b-991c-5c2d95ece413.png)](https://github.com/felipesllopes/App-minhasTarefas)
 [![app-previsaoTempo](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370768-03e7b885-01fa-4d17-9b1f-9d0f7aeba3da.png)](https://github.com/felipesllopes/App-previsaoTempo)
-[![app-frasesEstoicas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370919-96097a74-5f8f-48b2-aa1f-ab3a3e132c30.png)](https://github.com/felipesllopes/App-FrasesEstoicas)
+[![app-frasesEstoicas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/248393851-11020bcf-93bc-41fe-b204-2e3e7b97913a.png)](https://github.com/felipesllopes/App-FrasesEstoicas)
+
