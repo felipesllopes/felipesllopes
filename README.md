@@ -33,10 +33,10 @@ Hello, I'm Felipe Lopes! 👋😀 I am a student of Systems Analysis and Develop
 
 ### My main repositories (click on the image to go to the repository):
 
-[![theuniverse](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247369764-5f5316d4-9317-4f2b-aa9b-4af4d6944b8b.png)](https://github.com/felipesllopes/App-theUniverse)
-[![tela-blueBank](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370296-48d698a0-fe7c-45c0-8b23-f4e999b8a488.png)](https://github.com/felipesllopes/App-BlueBank)
-[![tela1](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370481-536fb5e1-f9a9-406b-893d-25a3546e13ba.png)](https://github.com/felipesllopes/App-rickAndMorty)
-[![app-tela3](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370581-d2bc0ffc-0204-4b1b-991c-5c2d95ece413.png)](https://github.com/felipesllopes/App-minhasTarefas)
-[![app-previsaoTempo](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370768-03e7b885-01fa-4d17-9b1f-9d0f7aeba3da.png)](https://github.com/felipesllopes/App-previsaoTempo)
-[![app-frasesEstoicas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/248393851-11020bcf-93bc-41fe-b204-2e3e7b97913a.png)](https://github.com/felipesllopes/App-FrasesEstoicas)
+[![the-universe](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247369764-5f5316d4-9317-4f2b-aa9b-4af4d6944b8b.png)](https://github.com/felipesllopes/App-theUniverse)
+[![blue-bank](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370296-48d698a0-fe7c-45c0-8b23-f4e999b8a488.png)](https://github.com/felipesllopes/App-BlueBank)
+[![rick-and-morty](https://user-images.githubusercontent.com/99768939/250419400-882d1fc1-4414-490e-8288-c8faa3e6818d.png)](https://github.com/felipesllopes/App-rickAndMorty)
+[![minhas-tarefas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370581-d2bc0ffc-0204-4b1b-991c-5c2d95ece413.png)](https://github.com/felipesllopes/App-minhasTarefas)
+[![previsao-tempo](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370768-03e7b885-01fa-4d17-9b1f-9d0f7aeba3da.png)](https://github.com/felipesllopes/App-previsaoTempo)
+[![frases-estoicas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/248393851-11020bcf-93bc-41fe-b204-2e3e7b97913a.png)](https://github.com/felipesllopes/App-FrasesEstoicas)
 
