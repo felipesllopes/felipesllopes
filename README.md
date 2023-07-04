@@ -33,7 +33,7 @@ Hello, I'm Felipe Lopes! 👋😀 I am a student of Systems Analysis and Develop
 
 ### My main repositories (click on the image to go to the repository):
 
-[![the-universe](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247369764-5f5316d4-9317-4f2b-aa9b-4af4d6944b8b.png)](https://github.com/felipesllopes/App-theUniverse)
+[![the-universe](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/251001987-3550094b-38b2-4ae4-93ff-2255f01a9d5b.png)](https://github.com/felipesllopes/App-theUniverse)
 [![blue-bank](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370296-48d698a0-fe7c-45c0-8b23-f4e999b8a488.png)](https://github.com/felipesllopes/App-BlueBank)
 [![rick-and-morty](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/250561132-8a6e0cee-91e4-4098-92ae-a8b8b64a312a.png)](https://github.com/felipesllopes/App-rickAndMorty)
 [![minhas-tarefas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370581-d2bc0ffc-0204-4b1b-991c-5c2d95ece413.png)](https://github.com/felipesllopes/App-minhasTarefas)
