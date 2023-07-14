@@ -1,4 +1,5 @@
 Hello, I'm Felipe Lopes! 👋😀 I am a student of Systems Analysis and Development. I'm 27 years old and I live in Rio de Janeiro. I love to study and acquire new knowledge.
+I started my studies in mobile development in January 2023, I am completely passionate about it, and I have it as my main hobby. 📱❤
 
 ![Felipesllopes GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesllopes&show_icons=true&theme=tokyonight)
 
