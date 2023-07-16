@@ -35,14 +35,15 @@ I started my studies in mobile development in January 2023, I am completely pass
 ### My main projects (click on the image to go to the repository):
 
 
-[![blue-bank](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370296-48d698a0-fe7c-45c0-8b23-f4e999b8a488.png)](https://github.com/felipesllopes/App-BlueBank)
-[![minhas-tarefas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370581-d2bc0ffc-0204-4b1b-991c-5c2d95ece413.png)](https://github.com/felipesllopes/App-minhasTarefas)
+[![blue-bank](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/253782496-223b80ab-17a8-49df-82ec-6d49360d271d.png)](https://github.com/felipesllopes/App-BlueBank)
+[![the-universe](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/253782612-30fa6d67-840c-4216-a116-58efbf489e87.png)](https://github.com/felipesllopes/App-theUniverse)
 [![finance](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/250564126-15a3de71-0d03-464c-a569-6711281f4a5e.png)](https://github.com/felipesllopes/App-Finance)
 
 
 ### Other projects (click on the image to go to the repository):
 
-[![the-universe](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/251001987-3550094b-38b2-4ae4-93ff-2255f01a9d5b.png)](https://github.com/felipesllopes/App-theUniverse)
+
 [![rick-and-morty](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/250561132-8a6e0cee-91e4-4098-92ae-a8b8b64a312a.png)](https://github.com/felipesllopes/App-rickAndMorty)
+[![minhas-tarefas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370581-d2bc0ffc-0204-4b1b-991c-5c2d95ece413.png)](https://github.com/felipesllopes/App-minhasTarefas)
 [![previsao-tempo](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/247370768-03e7b885-01fa-4d17-9b1f-9d0f7aeba3da.png)](https://github.com/felipesllopes/App-previsaoTempo)
-[![frases-estoicas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/248393851-11020bcf-93bc-41fe-b204-2e3e7b97913a.png)](https://github.com/felipesllopes/App-FrasesEstoicas)
+[![frases-estoicas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/253782720-136b1826-d3e0-4687-bc45-f41dddc07cfc.png)](https://github.com/felipesllopes/App-FrasesEstoicas)
