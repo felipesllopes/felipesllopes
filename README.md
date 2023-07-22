@@ -43,8 +43,7 @@ I started my studies in mobile development in January 2023, I am completely pass
 ### Other projects (click on the image to go to the repository):
 
 
-
 [![rick-and-morty](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/250561132-8a6e0cee-91e4-4098-92ae-a8b8b64a312a.png)](https://github.com/felipesllopes/App-rickAndMorty)
 [![minhas-tarefas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/254410267-d87e4ecf-8826-41d8-a62a-59b4f534e125.png)](https://github.com/felipesllopes/App-minhasTarefas)
-[![previsao-tempo](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/255288713-7a495ed3-4c80-4858-a5e7-480901cc4797.png)](https://github.com/felipesllopes/App-previsaoTempo)
+[![previsao-tempo](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/255343557-08e12ac3-25ce-40e3-8f0b-3bab82ebcb90.png)](https://github.com/felipesllopes/App-previsaoTempo)
 [![frases-estoicas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/253782720-136b1826-d3e0-4687-bc45-f41dddc07cfc.png)](https://github.com/felipesllopes/App-FrasesEstoicas)
