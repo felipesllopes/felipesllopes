@@ -11,7 +11,8 @@ Hello, I'm Felipe Lopes! 👋😀 I am a student of Systems Analysis and Develop
 
 ### Technologies I'm studying:
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![Firebase](https://img.shields.io/badge/Firebase-EEE?style=for-the-badge&logo=Firebase&logoColor=FF9A00)
