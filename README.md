@@ -24,7 +24,8 @@ Hello, I'm Felipe Lopes! 👋😀 I am a student of Systems Analysis and Develop
 ### My main projects (click on the image to go to the repository):
 
 
-[![blue-bank](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/253782496-223b80ab-17a8-49df-82ec-6d49360d271d.png)](https://github.com/felipesllopes/App-BlueBank)
+
+[![blue-bank](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/267123972-6d76ad62-5a98-4978-bf88-025b8315d2d6.png)](https://github.com/felipesllopes/App-BlueBank)
 [![tech-solutions](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/257206199-f8410225-375d-4e55-8be7-3471eb87bd92.png)](https://github.com/felipesllopes/App-Tech-Solutions)
 [![the-universe](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/260594536-8f6b70bd-c0a4-452e-b320-d24a1ee8d801.png)](https://github.com/felipesllopes/App-theUniverse)
 [![finance](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/250564126-15a3de71-0d03-464c-a569-6711281f4a5e.png)](https://github.com/felipesllopes/App-Finance)
