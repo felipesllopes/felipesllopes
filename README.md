@@ -1,5 +1,9 @@
 ### About me:
-Hello, I'm Felipe Lopes! 👋😀 I am a student of Systems Analysis and Development. I'm 27 years old and I live in Rio de Janeiro. I love to study and acquire new knowledge.
+Hello, I'm Felipe Lopes! 👋😀 
+
+I am a student of Systems Analysis and Development at [ Universidade Cândido Mendes](https://www.candidomendes.edu.br/). 📚💻
+
+I'm 27 years old and I live in Rio de Janeiro. 
 
 <br/>
 
@@ -10,15 +14,9 @@ Hello, I'm Felipe Lopes! 👋😀 I am a student of Systems Analysis and Develop
 ### Contact me! 📲
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521966731757)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lopes-b76075200/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Email&logoColor=white)](mailto:felipesl.lopes@hotmail.com)
 
-
-<br/>
-
-### My profiles 👤
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lopes-b76075200/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRFnmfC5zYAMlxjplgpj5dA)
 
 <br/>
 
@@ -52,5 +50,4 @@ Hello, I'm Felipe Lopes! 👋😀 I am a student of Systems Analysis and Develop
 
 [![previsao-tempo](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/255343557-08e12ac3-25ce-40e3-8f0b-3bab82ebcb90.png)](https://github.com/felipesllopes/App-previsaoTempo)
 [![minhas-tarefas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/254410267-d87e4ecf-8826-41d8-a62a-59b4f534e125.png)](https://github.com/felipesllopes/App-minhasTarefas)
-[![frases-estoicas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/253782720-136b1826-d3e0-4687-bc45-f41dddc07cfc.png)](https://github.com/felipesllopes/App-FrasesEstoicas)
 [![rick-and-morty](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/269386685-5c3a7f1e-b9e0-4815-9768-5aad1aba0ae6.png)](https://github.com/felipesllopes/App-rickAndMorty)
