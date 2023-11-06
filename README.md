@@ -37,7 +37,7 @@ I'm 27 years old and I live in Rio de Janeiro.
 
 <br/>
 
-### My main projects (click on the image to go to the repository):
+### These are some of my projects (click on the image to open the repository):
 
 [![blue-bank](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/267123972-6d76ad62-5a98-4978-bf88-025b8315d2d6.png)](https://github.com/felipesllopes/App-BlueBank)
 [![tech-solutions](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/257206199-f8410225-375d-4e55-8be7-3471eb87bd92.png)](https://github.com/felipesllopes/App-Tech-Solutions)
@@ -46,8 +46,4 @@ I'm 27 years old and I live in Rio de Janeiro.
 
 <br/>
 
-### Other projects (click on the image to go to the repository):
-
 [![previsao-tempo](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/255343557-08e12ac3-25ce-40e3-8f0b-3bab82ebcb90.png)](https://github.com/felipesllopes/App-previsaoTempo)
-[![minhas-tarefas](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/254410267-d87e4ecf-8826-41d8-a62a-59b4f534e125.png)](https://github.com/felipesllopes/App-minhasTarefas)
-[![rick-and-morty](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/269386685-5c3a7f1e-b9e0-4815-9768-5aad1aba0ae6.png)](https://github.com/felipesllopes/App-rickAndMorty)
