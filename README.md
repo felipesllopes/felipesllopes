@@ -43,7 +43,4 @@ I'm 27 years old and I live in Rio de Janeiro.
 [![tech-solutions](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/257206199-f8410225-375d-4e55-8be7-3471eb87bd92.png)](https://github.com/felipesllopes/App-Tech-Solutions)
 [![the-universe](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/260594536-8f6b70bd-c0a4-452e-b320-d24a1ee8d801.png)](https://github.com/felipesllopes/App-theUniverse)
 [![finance](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/250564126-15a3de71-0d03-464c-a569-6711281f4a5e.png)](https://github.com/felipesllopes/App-Finance)
-
-<br/>
-
 [![previsao-tempo](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/255343557-08e12ac3-25ce-40e3-8f0b-3bab82ebcb90.png)](https://github.com/felipesllopes/App-previsaoTempo)
