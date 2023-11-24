@@ -1,7 +1,7 @@
 ### About me:
 Hello, I'm Felipe Lopes! 👋😀 
 
-I am a student of Systems Analysis and Development at [ Universidade Cândido Mendes](https://www.candidomendes.edu.br/). 📚💻
+I am a student of Systems Analysis and Development at Universidade [Cândido Mendes](https://www.candidomendes.edu.br/). 📚💻
 
 I'm 27 years old and I live in Rio de Janeiro. 
 
