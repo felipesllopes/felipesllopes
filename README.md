@@ -13,7 +13,11 @@ I'm 27 years old and I live in Rio de Janeiro.
 
 ### Contact me! 📲
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521966731757)
+<a href="https://wa.me/5521966731757" target="_blank">
+  <img src="https://github.com/felipesllopes/felipesllopes/assets/99768939/a23718f9-5b0c-4332-bacf-5425a1b01260" alt="WhatsApp">
+</a>
+
+[![Whatsapp](https://github.com/felipesllopes/felipesllopes/assets/99768939/a23718f9-5b0c-4332-bacf-5425a1b01260)](https://wa.me/5521966731757)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lopes-b76075200/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Email&logoColor=white)](mailto:felipesl.lopes@hotmail.com)
 
