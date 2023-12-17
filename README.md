@@ -47,7 +47,7 @@ I'm 27 years old and I live in Rio de Janeiro.
 
 ### These are some of my projects (click on the image to open the repository):
 
-[![blue-bank](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/267123972-6d76ad62-5a98-4978-bf88-025b8315d2d6.png)](https://github.com/felipesllopes/App-BlueBank)
+[![blue-bank](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/267123972-6d76ad62-5a98-4978-bf88-025b8315d2d6.png)](https://github.com/felipesllopes/App-BlueBank1)
 [![tech-solutions](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/257206199-f8410225-375d-4e55-8be7-3471eb87bd92.png)](https://github.com/felipesllopes/App-Tech-Solutions)
 [![the-universe](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/260594536-8f6b70bd-c0a4-452e-b320-d24a1ee8d801.png)](https://github.com/felipesllopes/App-theUniverse)
 [![previsao-tempo](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/255343557-08e12ac3-25ce-40e3-8f0b-3bab82ebcb90.png)](https://github.com/felipesllopes/App-previsaoTempo)
