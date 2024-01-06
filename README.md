@@ -49,7 +49,8 @@ I'm 28 years old and I live in Rio de Janeiro.
 
 [![blue-bank](https://github.com/felipesllopes/felipesllopes/assets/99768939/3a412cb4-e370-4f51-a668-75750ca5b58d)](https://github.com/felipesllopes/App-BlueBank)
 [![minhas-tarefas](https://github.com/felipesllopes/felipesllopes/assets/99768939/a4160abd-14ba-467d-9363-01ed472bf201)](https://github.com/felipesllopes/App-MinhasTarefas)
-[![the-universe](https://github-production-user-asset-6210df.s3.amazonaws.com/99768939/260594536-8f6b70bd-c0a4-452e-b320-d24a1ee8d801.png)](https://github.com/felipesllopes/App-theUniverse)
+[![mars-rover-photos](https://github.com/felipesllopes/felipesllopes/assets/99768939/167c5c50-40d3-478f-98b1-d1a4d903e2f0)](https://github.com/felipesllopes/App-MarsRoverPhotos)
+
 
 <br/>
 <br/>
