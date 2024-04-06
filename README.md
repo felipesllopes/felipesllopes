@@ -7,6 +7,8 @@ Graduated in Systems Analysis and Development from the University [Cândido Mend
 
 I'm 28 years old and I live in Rio de Janeiro. 
 
+[Visit my website](https://felipelopes.atemes.com.br/)
+
 <br/>
 <br/>
 
@@ -19,7 +21,11 @@ I'm 28 years old and I live in Rio de Janeiro.
 
 ### Contact me:
 
+
+
 [![WhatsApp](https://github.com/felipesllopes/felipesllopes/assets/99768939/a23718f9-5b0c-4332-bacf-5425a1b01260)](https://wa.me/5521966731757)
+[![Instagram](https://github.com/felipesllopes/felipesllopes/assets/99768939/d4e8f4e5-7a05-42b2-9077-57e836281c2a)](https://www.instagram.com/felipesl.dev/)
+[![Website](https://github.com/felipesllopes/felipesllopes/assets/99768939/d8fa332d-5be8-4afb-a964-6b9c3a1486fc)](https://felipelopes.atemes.com.br/)
 [![LinkedIn](https://github.com/felipesllopes/felipesllopes/assets/99768939/fa26c6eb-af01-48ee-a0c5-439ec36721dd)](https://www.linkedin.com/in/felipe-lopes-b76075200/)
 [![Email](https://github.com/felipesllopes/felipesllopes/assets/99768939/33e7a19e-7ed8-48d5-a313-c074b2c638ee)](mailto:felipesl.lopes@hotmail.com)
 
