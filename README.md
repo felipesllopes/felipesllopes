@@ -56,20 +56,13 @@ I'm 28 years old and I live in Rio de Janeiro.
 [![mars-rover-photos](https://github.com/felipesllopes/felipesllopes/assets/99768939/167c5c50-40d3-478f-98b1-d1a4d903e2f0)](https://github.com/felipesllopes/App-MarsRoverPhotos)
 
 
-<br/>
-<br/>
 
-
-<img src="https://faroeditorial.com.br/site2020/wp-content/uploads/2022/09/MarcoAurelio-827x1024.png" alt="Marcus Aurelius" height="102.4" width="82.7" />
-
-"Apply yourself at all times with all your attention, to finish the work you have in your hands and free yourself from all other worries. You will be free from them if you perform every action in your life as if it were your last." - Marcus Aurelius
 
 <br/>
 <br/>
 
 
-Icons taken from [here](https://icons8.com.br/icons)
+[Icons](https://icons8.com.br/icons)
 
-Design created with [Illustrator](https://www.adobe.com/br/products/illustrator/campaign/pricing.html?gclid=Cj0KCQiAgqGrBhDtARIsAM5s0_lTL2isIXRKrYgfLlkNXM8h3JpWqQHW2ST1XjYQSgH9YcYgK6PScwYaAkuiEALw_wcB&sdid=KQPNY&mv=search&ef_id=Cj0KCQiAgqGrBhDtARIsAM5s0_lTL2isIXRKrYgfLlkNXM8h3JpWqQHW2ST1XjYQSgH9YcYgK6PScwYaAkuiEALw_wcB:G:s&s_kwcid=AL!3085!3!442396626644!e!!g!!illustrator!188190582!10039578942&gad_source=1)
 
 </div>
