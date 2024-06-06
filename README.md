@@ -1,44 +1,50 @@
+<div>
+
+## Hello, I'm Felipe Lopes!👋
+
+
 <div align="center">
-
-### About me:
-Hello, I'm Felipe Lopes! 👋😀 
-
-Graduated in Systems Analysis and Development from the University [Cândido Mendes](https://www.candidomendes.edu.br/). 📚💻
-
-I'm 28 years old and I live in Rio de Janeiro. 
-
-
-<br/>
-<br/>
-
+  
+![wallpaper](https://github.com/felipesllopes/felipesllopes/assets/99768939/ff41d374-56b9-4aab-854a-d57068c9a511)
 
 ![Felipesllopes GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesllopes&show_icons=true&theme=tokyonight&line_height=22)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+</br>
+
+## 🧑🏼‍💻 About me:
+
+
+Hello! I'm a 28 year old developer from Rio de Janeiro, Brazil. I have a degree in Systems Analysis and Development and I am currently focused on studying mobile development.
+
+I have a passion for learning new things and my interests go beyond coding. In my free time, I like to play games, read, watch documentaries and watch series.
+
+Whether it's diving into the latest mobile technologies or exploring new hobbies, I'm always eager to expand my knowledge and skills. Thanks for stopping by my profile!
+
 
 <br/>
 
-### Contact me:
+## 📞 Contact me:
 
-
-
-[![WhatsApp](https://github.com/felipesllopes/felipesllopes/assets/99768939/a23718f9-5b0c-4332-bacf-5425a1b01260)](https://wa.me/5521966731757)
-[![Instagram](https://github.com/felipesllopes/felipesllopes/assets/99768939/d4e8f4e5-7a05-42b2-9077-57e836281c2a)](https://www.instagram.com/felipesl.dev/)
-[![LinkedIn](https://github.com/felipesllopes/felipesllopes/assets/99768939/fa26c6eb-af01-48ee-a0c5-439ec36721dd)](https://www.linkedin.com/in/felipe-lopes-b76075200/)
-[![Email](https://github.com/felipesllopes/felipesllopes/assets/99768939/33e7a19e-7ed8-48d5-a313-c074b2c638ee)](mailto:felipesl.lopes@hotmail.com)
+[![WhatsApp-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/d3f13668-9906-4daf-b9f1-c1535129d026)](https://wa.me/5521966731757)
+[![Instagram-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/0c31a346-60c5-4e55-814f-9d0d964a52d3)](https://www.instagram.com/felipesl.dev/)
+[![LinkedIn-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/635fa737-66b7-4b85-848b-cb8d9156c41e)](https://www.linkedin.com/in/felipe-lopes-b76075200/)
+[![Email-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/ebf86a24-5888-477c-ae90-80ef49ad980a)](mailto:felipesl.lopes@hotmail.com)
 
 <br/>
   
-### Technologies I'm studying:
+## 📚 Technologies I'm studying:
 
-![Typescript](https://github.com/felipesllopes/felipesllopes/assets/99768939/d8d5752b-844d-46d3-bbdc-a77bc5c7058e)
-![Javascript](https://github.com/felipesllopes/felipesllopes/assets/99768939/5e2a6874-3965-4081-8f4d-e1373d3913bc)
-![Node.Js](https://github.com/felipesllopes/felipesllopes/assets/99768939/98ede162-1993-459c-9a15-5b3668fce5ca)
-![React Native](https://github.com/felipesllopes/felipesllopes/assets/99768939/413635db-d5e0-4b5d-9b6f-01c96ecd2eb3)
+![Typescript-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/59500bce-5689-46cb-9ec7-2fc805891970)
+![Javascript-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/51c8f0ea-fd95-4bfd-9cfe-29f586b17787)
+![Node.Js-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/4452e6f3-b929-4721-8823-93ce78c45cd7)
+![React_Native-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/93386dea-4f09-45b6-ba01-7d7f33ff19c7)
+![Firebase-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/734c279e-fbe2-451b-abfc-d1fb524fff1c)
 
 <br/>
 
-### Technologies I know:
+## 💻 Technologies I know:
 
 ![SQLServer](https://github.com/felipesllopes/felipesllopes/assets/99768939/886a0a50-5ab6-4907-9141-909ad5c30ccd)
 ![MySQL](https://github.com/felipesllopes/felipesllopes/assets/99768939/785ec52a-9ea9-43ea-9bef-1af3c7e431f9e)
@@ -49,13 +55,15 @@ I'm 28 years old and I live in Rio de Janeiro.
 
 <br/>
 
-### These are some of my projects (click on the image to open the repository):
+## 📱 Main projects:
+
+<div align="center">
 
 [![blue-bank](https://github.com/felipesllopes/felipesllopes/assets/99768939/3a412cb4-e370-4f51-a668-75750ca5b58d)](https://github.com/felipesllopes/App-BlueBank)
 [![minhas-tarefas](https://github.com/felipesllopes/felipesllopes/assets/99768939/f18b499f-ab31-4e19-9685-59ff9c3c58a0)](https://github.com/felipesllopes/App-MinhasTarefas)
 [![mars-rover-photos](https://github.com/felipesllopes/felipesllopes/assets/99768939/167c5c50-40d3-478f-98b1-d1a4d903e2f0)](https://github.com/felipesllopes/App-MarsRoverPhotos)
 
-
+</div>
 
 
 <br/>
