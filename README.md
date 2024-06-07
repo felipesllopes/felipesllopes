@@ -25,7 +25,7 @@ Whether it's diving into the latest mobile technologies or exploring new hobbies
 
 <br/>
 
-## 📞 Contact me:
+## 📞 Contact me <a name="contact"></a>:
 
 [![WhatsApp-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/d3f13668-9906-4daf-b9f1-c1535129d026)](https://wa.me/5521966731757)
 [![Instagram-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/0c31a346-60c5-4e55-814f-9d0d964a52d3)](https://www.instagram.com/felipesl.dev/)
