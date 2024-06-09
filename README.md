@@ -57,19 +57,20 @@ Whether it's diving into the latest mobile technologies or exploring new hobbies
 <br/>
 
 ## 📱 Main projects:
+> Click on the image to go to the repository
 
 <div align="center">
 
 <a href="https://github.com/felipesllopes/App-BlueBank">
-  <img src="https://github.com/felipesllopes/felipesllopes/assets/99768939/73fb3d0a-e030-41d4-b3fa-7b29d7af5a50"  alt="Bluebank app screenshot" width="289,64" height="604,28"/>
+  <img src="https://github.com/felipesllopes/felipesllopes/assets/99768939/73fb3d0a-e030-41d4-b3fa-7b29d7af5a50"  alt="Bluebank app screenshot" width="30%" height="auto" margin-right="20"/>
 </a>
 
 <a href="https://github.com/felipesllopes/App-MinhasTarefas">
-  <img src="https://github.com/felipesllopes/felipesllopes/assets/99768939/52f1fe9f-0f32-4abe-9f57-cd2f7a371c31" alt="Screenshot of the My Tasks app" width="289,64" height="604,28"/>
+  <img src="https://github.com/felipesllopes/felipesllopes/assets/99768939/52f1fe9f-0f32-4abe-9f57-cd2f7a371c31" alt="Screenshot of the My Tasks app" width="30%" height="auto"/>
 </a>
 
 <a href="https://github.com/felipesllopes/App-MarsRoverPhotos">
-  <img src="https://github.com/felipesllopes/felipesllopes/assets/99768939/5c1924e6-ee79-4ca2-a79e-f0418082c894" alt="Screenshot of the Mars Rover Photos app" width="289,64" height="604,28"/>
+  <img src="https://github.com/felipesllopes/felipesllopes/assets/99768939/5c1924e6-ee79-4ca2-a79e-f0418082c894" alt="Screenshot of the Mars Rover Photos app" width="30%" height="auto"/>
 </a>
 
 </div>
