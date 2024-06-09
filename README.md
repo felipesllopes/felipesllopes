@@ -1,11 +1,12 @@
-<div>
-
 ## Hello, I'm Felipe Lopes!👋
 
-
 <div align="center">
-  
-![wallpaper](https://github.com/felipesllopes/felipesllopes/assets/99768939/ff41d374-56b9-4aab-854a-d57068c9a511)
+
+<img src="https://github.com/felipesllopes/felipesllopes/assets/99768939/ff41d374-56b9-4aab-854a-d57068c9a511" alt="Developer wallpaper" />
+
+</br>
+</br>
+
 
 ![Felipesllopes GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesllopes&show_icons=true&theme=tokyonight&line_height=22)
 
@@ -59,9 +60,17 @@ Whether it's diving into the latest mobile technologies or exploring new hobbies
 
 <div align="center">
 
-[![blue-bank](https://github.com/felipesllopes/felipesllopes/assets/99768939/3a412cb4-e370-4f51-a668-75750ca5b58d)](https://github.com/felipesllopes/App-BlueBank)
-[![minhas-tarefas](https://github.com/felipesllopes/felipesllopes/assets/99768939/f18b499f-ab31-4e19-9685-59ff9c3c58a0)](https://github.com/felipesllopes/App-MinhasTarefas)
-[![mars-rover-photos](https://github.com/felipesllopes/felipesllopes/assets/99768939/167c5c50-40d3-478f-98b1-d1a4d903e2f0)](https://github.com/felipesllopes/App-MarsRoverPhotos)
+<a href="https://github.com/felipesllopes/App-BlueBank">
+  <img src="https://github.com/felipesllopes/felipesllopes/assets/99768939/73fb3d0a-e030-41d4-b3fa-7b29d7af5a50"  alt="Bluebank app screenshot" width="289,64" height="604,28"/>
+</a>
+
+<a href="https://github.com/felipesllopes/App-MinhasTarefas">
+  <img src="https://github.com/felipesllopes/felipesllopes/assets/99768939/52f1fe9f-0f32-4abe-9f57-cd2f7a371c31" alt="Screenshot of the My Tasks app" width="289,64" height="604,28"/>
+</a>
+
+<a href="https://github.com/felipesllopes/App-MarsRoverPhotos">
+  <img src="https://github.com/felipesllopes/felipesllopes/assets/99768939/5c1924e6-ee79-4ca2-a79e-f0418082c894" alt="Screenshot of the Mars Rover Photos app" width="289,64" height="604,28"/>
+</a>
 
 </div>
 
