@@ -37,19 +37,19 @@ Whether it's diving into the latest mobile technologies or exploring new hobbies
   
 ## 📚 Technologies I'm studying:
 
-![Typescript-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/59500bce-5689-46cb-9ec7-2fc805891970)
-![Javascript-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/51c8f0ea-fd95-4bfd-9cfe-29f586b17787)
-![Node.Js-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/4452e6f3-b929-4721-8823-93ce78c45cd7)
-![React_Native-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/93386dea-4f09-45b6-ba01-7d7f33ff19c7)
-![Firebase-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/734c279e-fbe2-451b-abfc-d1fb524fff1c)
+[![Typescript-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/59500bce-5689-46cb-9ec7-2fc805891970)](https://www.typescriptlang.org/)
+[![Javascript-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/51c8f0ea-fd95-4bfd-9cfe-29f586b17787)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.Js-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/4452e6f3-b929-4721-8823-93ce78c45cd7)](https://nodejs.org/en)
+[![React_Native-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/93386dea-4f09-45b6-ba01-7d7f33ff19c7)](https://reactnative.dev/docs/getting-started)
+[![Firebase-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/734c279e-fbe2-451b-abfc-d1fb524fff1c)](https://firebase.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-SKWS-all-all-trial-e-dr-1707800-LUAC0008679&utm_content=text-ad-none-any-DEV_c-CRE_429626774316-ADGP_Hybrid%20%7C%20SKWS%20-%20EXA%20%7C%20Txt_Compute-Firebase-KWID_43700066431125567-kwd-312330826250&utm_term=KW_firebase-ST_Firebase&gad_source=1&gclid=Cj0KCQjwpZWzBhC0ARIsACvjWROgyZMPh9v-aw-zYjXjMntN2ZS9-8QPRpLfqAu7n9i4657BbITIPmAaAvxwEALw_wcB&gclsrc=aw.ds&hl=pt-br)
 
 <br/>
 
 ## 💻 Technologies I know:
 
-![SQLServer](https://github.com/felipesllopes/felipesllopes/assets/99768939/886a0a50-5ab6-4907-9141-909ad5c30ccd)
-![MySQL](https://github.com/felipesllopes/felipesllopes/assets/99768939/785ec52a-9ea9-43ea-9bef-1af3c7e431f9e)
-![Java](https://github.com/felipesllopes/felipesllopes/assets/99768939/7bd869ba-57e2-47c6-ae97-3890706e729f)
+[![SQLServer](https://github.com/felipesllopes/felipesllopes/assets/99768939/886a0a50-5ab6-4907-9141-909ad5c30ccd)](https://www.microsoft.com/en-us/sql-server)
+[![MySQL](https://github.com/felipesllopes/felipesllopes/assets/99768939/785ec52a-9ea9-43ea-9bef-1af3c7e431f9e)](https://www.mysql.com/)
+[![Java](https://github.com/felipesllopes/felipesllopes/assets/99768939/7bd869ba-57e2-47c6-ae97-3890706e729f)](https://www.oracle.com/java/)
 ![HTML5](https://github.com/felipesllopes/felipesllopes/assets/99768939/5d3f7167-edbe-436f-b503-2ed5184ba7df)
 ![CSS3](https://github.com/felipesllopes/felipesllopes/assets/99768939/4c1a37e7-5d63-4fa7-9e21-0ee7c0aba18c)
 
@@ -80,7 +80,4 @@ Whether it's diving into the latest mobile technologies or exploring new hobbies
 <br/>
 
 
-[Icons](https://icons8.com.br/icons)
-
-
-</div>
+[Icon library](https://icons8.com.br/icons)
