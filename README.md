@@ -16,12 +16,17 @@
 
 ## 🧑🏼‍💻 About me:
 
+👋 Hello! I'm 28 years old, from Rio de Janeiro, Brazil. I have a degree in Systems Analysis and Development and I am currently studying mobile development.
 
-Hello! I'm a 28 year old developer from Rio de Janeiro, Brazil. I have a degree in Systems Analysis and Development and I am currently focused on studying mobile development.
+💻 I started in the world of programming in 2021, through the Systems Analysis and Development course. My first programming language was C++, but I was able to acquire more solid knowledge in Java (a language I have a lot of affection for), where I learned object orientation, data structure, etc. 
 
-I have a passion for learning new things and my interests go beyond coding. In my free time, I like to play games, read, watch documentaries and watch series.
+📱 After some time studying Java and other languages, I discovered the mobile world, which I became interested in and decided to dive into. So, in 2022, I started my studies in JavaScript so I could develop native applications with React Native. 
 
-Whether it's diving into the latest mobile technologies or exploring new hobbies, I'm always eager to expand my knowledge and skills. Thanks for stopping by my profile!
+🎮📚 I have a passion for learning new things and my interests go beyond coding. In my free time, I like to play FIFA, World of Tanks, read, watch documentaries and series.
+
+🌟 Whether it's diving into technology or exploring new hobbies, I'm always eager to expand my knowledge and skills.
+
+🙏 Thanks for stopping by my profile!
 
 
 <br/>
