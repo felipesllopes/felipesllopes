@@ -61,7 +61,7 @@ Whether it's diving into the latest mobile technologies or exploring new hobbies
 
 <div align="center">
 
-<a href="https://github.com/felipesllopes/App-BlueBank">
+<a href="https://github.com/felipesllopes/App-Bluebank">
   <img src="https://github.com/felipesllopes/felipesllopes/assets/99768939/73fb3d0a-e030-41d4-b3fa-7b29d7af5a50"  alt="Bluebank app screenshot" width="30%" height="auto" margin-right="20"/>
 </a>
 
