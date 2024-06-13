@@ -1,4 +1,4 @@
-## Hello, I'm Felipe Lopes!👋
+## Hello, I'm Felipe Lopes!
 
 <div align="center">
 
@@ -14,24 +14,22 @@
 
 </br>
 
-## 🧑🏼‍💻 About me:
+## About me:
 
-👋 Hello! I'm 28 years old, from Rio de Janeiro, Brazil. I have a degree in Systems Analysis and Development and I am currently studying mobile development.
+Hello! I'm 28 years old, from Rio de Janeiro, Brazil. I have a degree in Systems Analysis and Development and I am currently studying mobile development.
 
-💻 I started in the world of programming in 2021, through the Systems Analysis and Development course. My first programming language was C++, but I was able to acquire more solid knowledge in Java (a language I have a lot of affection for), where I learned object orientation, data structure, etc. 
+I started in the world of programming in 2021, through the Systems Analysis and Development course. My first programming language was C++, but I was able to acquire more solid knowledge in Java (a language I have a lot of affection for), where I learned object orientation, data structure, etc. 
 
-📱 After some time studying Java and other languages, I discovered the mobile world, which I became interested in and decided to dive into. So, in 2022, I started my studies in JavaScript so I could develop native applications with React Native. 
+After some time studying Java and other languages, I discovered the mobile world, which I became interested in and decided to dive into. So, in 2022, I started my studies in JavaScript so I could develop native applications with React Native. 
 
-🎮📚 I have a passion for learning new things and my interests go beyond coding. In my free time, I like to play FIFA, World of Tanks, read, watch documentaries and series.
+I have a passion for learning new things and my interests go beyond coding. In my free time, I like to play FIFA, World of Tanks, read, watch documentaries and series.
 
-🌟 Whether it's diving into technology or exploring new hobbies, I'm always eager to expand my knowledge and skills.
-
-🙏 Thanks for stopping by my profile!
+Whether it's diving into technology or exploring new hobbies, I'm always eager to expand my knowledge and skills.
 
 
 <br/>
 
-## 📞 Contact me <a name="contact"></a>:
+## Contact me <a name="contact"></a>:
 
 [![WhatsApp-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/d3f13668-9906-4daf-b9f1-c1535129d026)](https://wa.me/5521966731757)
 [![Instagram-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/0c31a346-60c5-4e55-814f-9d0d964a52d3)](https://www.instagram.com/felipesl.dev/)
@@ -40,7 +38,7 @@
 
 <br/>
   
-## 📚 Technologies I'm studying:
+## Technologies I'm studying:
 
 [![Typescript-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/59500bce-5689-46cb-9ec7-2fc805891970)](https://www.typescriptlang.org/)
 [![Javascript-40](https://github.com/felipesllopes/felipesllopes/assets/99768939/51c8f0ea-fd95-4bfd-9cfe-29f586b17787)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -50,7 +48,7 @@
 
 <br/>
 
-## 💻 Technologies I know:
+## Technologies I know:
 
 [![SQLServer](https://github.com/felipesllopes/felipesllopes/assets/99768939/886a0a50-5ab6-4907-9141-909ad5c30ccd)](https://www.microsoft.com/en-us/sql-server)
 [![MySQL](https://github.com/felipesllopes/felipesllopes/assets/99768939/785ec52a-9ea9-43ea-9bef-1af3c7e431f9e)](https://www.mysql.com/)
@@ -61,7 +59,7 @@
 
 <br/>
 
-## 📱 Main projects:
+## Main projects:
 > Click on the image to go to the repository
 
 <div align="center">
